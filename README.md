@@ -8,6 +8,7 @@ This repository contains the lesson 'Introduction to working with data and plott
 * Nicolas P. Rougier's material used in both the above available [here](http://www.labri.fr/perso/nrougier/teaching/matplotlib/).
 * Benjamin Root's material available [here](https://github.com/matplotlib/AnatomyOfMatplotlib).
 * The [Software Carpentry](https://software-carpentry.org/) lesson `Plotting and Programming in Python`, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 The lesson is delivered in the jupyter notebooks based build system developed by Jack Betteridge and James Grant for Advancing Research Computing at University of Bath.
 
 ## Changes
